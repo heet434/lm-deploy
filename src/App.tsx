@@ -52,7 +52,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router basename='/client'> basename='/client' is used to make sure the routes are correct when deployed to the server.
+      <Router>
         <Routes>
           <Route path="/" element = {<SignIn userLoginUtility={userLoginUtility}/>}/>
           <Route path="/signup" element = {<SignUp/>}/>
