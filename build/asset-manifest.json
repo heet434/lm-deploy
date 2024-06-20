@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/heet434/leave_management/static/css/main.c124b6f8.css",
-    "main.js": "/heet434/leave_management/static/js/main.25a0ba0b.js",
-    "index.html": "/heet434/leave_management/index.html",
-    "main.c124b6f8.css.map": "/heet434/leave_management/static/css/main.c124b6f8.css.map",
-    "main.25a0ba0b.js.map": "/heet434/leave_management/static/js/main.25a0ba0b.js.map"
+    "main.css": "/lm-deploy/static/css/main.c124b6f8.css",
+    "main.js": "/lm-deploy/static/js/main.25a0ba0b.js",
+    "index.html": "/lm-deploy/index.html",
+    "main.c124b6f8.css.map": "/lm-deploy/static/css/main.c124b6f8.css.map",
+    "main.25a0ba0b.js.map": "/lm-deploy/static/js/main.25a0ba0b.js.map"
   },
   "entrypoints": [
     "static/css/main.c124b6f8.css",

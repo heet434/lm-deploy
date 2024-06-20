@@ -1,5 +1,5 @@
 {
-  "homepage": "https://myusername.github.io/lm-deploy/",
+  "homepage": "https://heet434.github.io/lm-deploy/",
   "name": "client",
   "version": "0.1.0",
   "proxy": "https://leavemanagement-production.up.railway.app/",
