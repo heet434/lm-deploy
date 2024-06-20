@@ -52,7 +52,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
+      <Router basename='/lm-deploy'>
         <Routes>
           <Route path="/" element = {<SignIn userLoginUtility={userLoginUtility}/>}/>
           <Route path="/signup" element = {<SignUp/>}/>
