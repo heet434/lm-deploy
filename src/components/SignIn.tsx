@@ -27,7 +27,7 @@ import env from 'react-dotenv';
 //const navigate = useNavigate();
 
 // get BACKEND_PORT from .env file
-const BACKEND_PORT = env.REACT_APP_BACKEND_PORT;
+const BACKEND_PORT = 'https://leavemanagement-production.up.railway.app';
 
 function Copyright(props: any) {
   return (

@@ -5,7 +5,7 @@ import dayjs from 'dayjs';
 import env from 'react-dotenv';
 
 // getting backend port from .env file
-const BACKEND_PORT = env.REACT_APP_BACKEND_PORT
+const BACKEND_PORT = 'https://leavemanagement-production.up.railway.app'
 
 interface PendingReqProps {
   instructorData: {

@@ -4,7 +4,7 @@ import env from 'react-dotenv';
 //import CalendarComponent from './Calendar';
 
 // get BACKEND_PORT from .env file
-const BACKEND_PORT = env.REACT_APP_BACKEND_PORT;
+const BACKEND_PORT = 'https://leavemanagement-production.up.railway.app';
 
 interface Leave {
     leave_date: string;
